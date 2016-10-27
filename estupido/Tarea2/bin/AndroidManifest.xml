@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example2.tarea2"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="18"
+        android:targetSdkVersion="18" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name="com.tarea.tarea.MainActivity"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.tarea.preguntas.Pregunta1"
+            android:label="@string/title_activity_pregunta1" >
+        </activity>
+        <activity
+            android:name="com.tarea.preguntas.Pregunta2"
+            android:label="@string/title_activity_pregunta2" >
+        </activity>
+        <activity
+            android:name="com.tarea.preguntas.Resultado"
+            android:label="@string/title_activity_resultado" >
+        </activity>
+        <activity
+            android:name="com.tarea.preguntas.Pregunta3"
+            android:label="@string/title_activity_pregunta3" >
+        </activity>
+        <activity
+            android:name="com.tarea.preguntas.Pregunta4"
+            android:label="@string/title_activity_pregunta4" >
+        </activity>
+        <activity
+            android:name="com.tarea.preguntas.Pregunta5"
+            android:label="@string/title_activity_pregunta5" >
+        </activity>
+        <activity
+            android:name="com.tarea.preguntas.Pregunta6"
+            android:label="@string/title_activity_pregunta6" >
+        </activity>
+        <activity
+            android:name="com.tarea.preguntas.Pregunta7"
+            android:label="@string/title_activity_pregunta7" >
+        </activity>
+        <activity
+            android:name="com.tarea.preguntas.Pregunta8"
+            android:label="@string/title_activity_pregunta8" >
+        </activity>
+        <activity
+            android:name="com.tarea.preguntas.Pregunta9"
+            android:label="@string/title_activity_pregunta9" >
+        </activity>
+        <activity
+            android:name="com.tarea.preguntas.Pregunta10"
+            android:label="@string/title_activity_pregunta10" >
+        </activity>
+        <activity
+            android:name="com.tarea.preguntas.Pregunta10"
+            android:label="@string/title_activity_pregunta10" >
+        </activity>
+    </application>
+
+</manifest>

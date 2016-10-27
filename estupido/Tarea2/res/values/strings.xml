@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Tarea2</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_pregunta1">Pregunta1</string>
+    <string name="nombre">¿Cual es su nombre?</string>
+    <string name="nom">Nombre</string>
+    <string name="empezar">EMPEZAR</string>
+    <string name="titulo">TEST DE SISTEMAS OPERATIVOS</string>
+    <string name="subtitulo">Está a punto de empezar el Test de SistemasOperativos</string>
+    <string name="instruccion1">1) Lea determinada cada pregunta y seleccione la respuesta correcta.</string>
+    <string name="instruccion2">2) Escriba su nombre y seleccione Empezar.</string>
+    <string name="instruccion3"></string>
+    <string name="instruccion4"></string>
+    <string name="siguiente">SIGUIENTE</string>
+    <string name="resultado">RESULTADO</string>
+    <string name="terminar">TERMINAR</string>
+    <string name="title_activity_pregunta2">Pregunta2</string>
+    
+    <string name="c"></string>
+    <string name="i"></string>
+    
+    <string name="correctas">Correctas: </string>
+    <string name="incorrectas">Incorrectas: </string>
+    <string name="campo"> </string>
+    <string name="subtitulo2">Estos son sus resultados: </string>
+       
+    <string name="pregunta1">¿Cuál de los siguientes no es un sistema operativo?</string>
+    <string name="pregunta2">¿Las versiones de Linux se las conoce con el nombre de?</string>
+    <string name="pregunta3">Las aplicaciones en Windows reciben el nombre de:</string>
+    <string name="pregunta4">¿Cuál de las siguientes no es una característica del sistema operativo Linux?</string>
+    <string name="pregunta5">¿La última versión de Windows es?</string>
+    <string name="pregunta6">¿Las ventajas de usar un sistema operativo Mac OS son?</string>
+    <string name="pregunta7">¿Cuál de las siguientes no es una ventaja del sistema operativo Mac OS?</string>    
+    <string name="pregunta8">¿Que es un Proceso?</string>
+    <string name="pregunta9">¿Que es una Memoria RAM?</string>
+    <string name="pregunta10">¿Comando para listar los procesos en WINDOWS?</string>
+    
+    <string name="title_activity_resultado">Resultado</string>
+    <string name="title_activity_pregunta3">Pregunta3</string>
+    <string name="title_activity_pregunta4">Pregunta4</string>
+    <string name="title_activity_pregunta5">Pregunta5</string>
+    <string name="title_activity_pregunta6">Pregunta6</string>
+    <string name="title_activity_pregunta7">Pregunta7</string>
+    <string name="title_activity_pregunta8">Pregunta8</string>
+    <string name="title_activity_pregunta9">Pregunta9</string>
+    <string name="title_activity_pregunta10">Pregunta10</string>
+
+</resources>
